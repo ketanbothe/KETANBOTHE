@@ -1,3 +1,20 @@
+# Hi 👋 I'm Ketan Suresh Bothe
+
+🎓 IT Engineering Student  
+💻 Interested in Web Development & Cyber Security 
+🚀 Currently learning C, Python & Data Structures  
+
+---
+
+## 📂 Projects
+🔹 Smart Queue Management System (IoT)  
+🔹 Digital Portfolio Website    
+
+---
+
+## 📫 Contact Me
+📧 Email: ketanop2007@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/ketan-bothe-b24216391  
 ## Hi there 👋
 
 <!--
