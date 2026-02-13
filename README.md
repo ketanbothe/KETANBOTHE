@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ketan Suresh Bothe
 
-🎓 IT Engineering Student  
-💻 Interested in Web Development & Cyber Security 
+🎓 IT Engineering Student <br> 
+💻 Interested in Web Development & Cyber Security <br>
 🚀 Currently learning C, Python & Data Structures  
 
 ---
